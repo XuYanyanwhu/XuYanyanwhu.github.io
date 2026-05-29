@@ -1,0 +1,15 @@
+.DS_Store
+.hugo_build.lock
+hugo_stats.json
+
+# Hugo generated output and cache
+/public/
+/resources/
+
+# Node dependencies
+/node_modules/
+
+# Local environment files
+.env
+.env.*
+

@@ -1,0 +1,43 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: 徐彦彦
+  given: 彦彦
+  family: 徐
+  alternate: Yanyan Xu
+postnominals:
+  - PhD
+status:
+  icon: ""
+role: 教授 / 博士生导师
+bio: |
+  徐彦彦，女，博士，教授，博士生导师，武汉大学测绘遥感信息工程全国重点实验室 3S 集成与网络通信研究室副主任。
+
+affiliations:
+  - name: 武汉大学测绘遥感信息工程全国重点实验室
+    url: https://liesmars.whu.edu.cn/
+
+links:
+  - icon: at-symbol
+    url: mailto:xuyy@whu.edu.cn
+    label: E-mail
+  - icon: hero/link
+    url: https://liesmars.whu.edu.cn/info/1168/5969.htm
+    label: 原始信息页
+
+interests:
+  - 云计算安全
+  - 大数据隐私保护
+  - 智能网络通信
+  - 空间信息实时传输
+
+education: []
+experience:
+  - role: 3S 集成与网络通信研究室副主任
+    org: 武汉大学测绘遥感信息工程全国重点实验室
+    start: ""
+
+skills: []
+languages: []
+awards: []
