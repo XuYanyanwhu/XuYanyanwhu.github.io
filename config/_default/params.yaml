@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "云计算安全 · 大数据隐私保护 · 智能网络通信"
     # Site meta description for search engines and social sharing
-    description: "徐彦彦教授个人主页，研究方向包括云计算安全与大数据隐私保护、智能网络通信、空间信息实时传输。"
+    description: "徐彦彦教授个人主页，研究方向包括地理信息安全、智能网络通信、空间信息实时传输。"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: ""
