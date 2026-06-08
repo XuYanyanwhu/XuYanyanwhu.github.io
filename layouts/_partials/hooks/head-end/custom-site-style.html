@@ -6,21 +6,30 @@
     --whu-muted: #5a6978;
   }
 
-  body {
+  /* body {
     background:
       linear-gradient(rgba(79, 174, 219, 0.08) 1px, transparent 1px),
       linear-gradient(90deg, rgba(79, 174, 219, 0.08) 1px, transparent 1px),
       linear-gradient(135deg, #04172d 0%, #08284a 42%, #0b3968 100%) !important;
     background-size: 44px 44px, 44px 44px, 100% 100% !important;
     color: var(--whu-ink) !important;
-  }
+  } */
+
+body {
+  background:
+    linear-gradient(rgba(79, 174, 219, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(79, 174, 219, 0.08) 1px, transparent 1px),
+    linear-gradient(135deg, #f8fafc 0%, #e6eff7 60%, #dbe7f1 100%) !important;
+  background-size: 44px 44px, 44px 44px, 100% 100% !important;
+  color: var(--whu-ink) !important;
+}
 
   .navbar,
   header {
     backdrop-filter: blur(14px);
   }
 
-  nav,
+  /* nav,
   .navbar,
   header,
   #navbar,
@@ -36,7 +45,24 @@
   [role="navigation"] a {
     color: rgba(248, 252, 255, 0.94) !important;
     opacity: 1 !important;
-  }
+  } */
+
+nav,
+.navbar,
+header,
+#navbar,
+.hb-navbar {
+  background: rgba(255, 255, 255, 0.92) !important;
+}
+
+nav a,
+.navbar a,
+header a,
+#navbar a,
+.hb-navbar a,
+[role="navigation"] a {
+  color: rgba(22, 35, 54, 0.95) !important;
+}
 
   nav a:hover,
   .navbar a:hover,
@@ -342,6 +368,53 @@
       flex: 0 0 31%;
     }
   }
+
+  /* 学生头像网格样式（团队简介页面） */
+  .students-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 18px;
+    margin-top: 12px;
+  }
+
+  .student-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: #fff;
+    border: 1px solid #dfe6ee;
+    padding: 10px;
+    border-radius: 6px;
+  }
+
+  .student-card img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 4px;
+    border: 1px solid #cfd7e0;
+  }
+
+  .student-card .student-name {
+    display: block;
+    margin-top: 6px;
+    color: var(--whu-blue);
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .student-card .student-meta {
+    color: var(--whu-muted);
+    font-size: 13px;
+  }
+
+  .student-card .field-text{
+    color: var(--whu-muted);
+    font-size: 13px;
+    white-space: nowrap; /* 禁止自动换行，整行展示 */
+  }
+
 </style>
 
 <script>

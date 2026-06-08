@@ -6,10 +6,10 @@ window.teacherHomeConfig = {
   },
   nav: [
     { label: "研究方向", href: "#research" },
-    { label: "课题组风采", href: "#gallery" },
     { label: "科研项目", href: "#projects" },
     { label: "论文成果", href: "#publications" },
     { label: "学生培养", href: "#students" },
+    { label: "团队简介", href: "#gallery" },
     { label: "联系", href: "#contact" }
   ],
   hero: {
@@ -64,7 +64,7 @@ window.teacherHomeConfig = {
   gallery: {
     id: "gallery",
     eyebrow: "Gallery",
-    title: "课题组风采",
+    title: "团队简介",
     // 添加图片时，把图片放入 images/ 文件夹，然后在 images 数组中新增一项即可。
     images: [
       {
@@ -197,6 +197,15 @@ window.teacherHomeConfig = {
     description: "研究生培养注重理论与实际相结合，着力提高学生综合能力，包括科研攻关能力、程序开发技能、论文写作能力、沟通能力、表达能力和团队合作能力等。为研究生提供优越的学习和科研条件，研究生均有机会参与实际项目的历练，为求职或进一步深造奠定坚实基础。所培养的历届毕业生均进入国内外著名高科技公司、高校或科研院所工作。",
     directionTitle: "欢迎联系的方向",
     directions: ["云计算安全、大数据隐私保护、遥感影像安全检索", "智能网络通信、网络流量预测、智能路由", "空间信息实时传输、应急遥感数据平台"],
+    // 在读学生（示例数据）。请将 src 替换为实际头像路径（相对或绝对 URL）
+    doctoral: [
+      { name: "张三", src: "https://via.placeholder.com/360x480?text=张三", degree: "在读博士", undergrad: "本科：北京大学", research: "地理信息安全" },
+      { name: "李四", src: "https://via.placeholder.com/360x480?text=李四", degree: "在读博士", undergrad: "本科：清华大学", research: "空间信息实时传输" }
+    ],
+    masters: [
+      { name: "王五", src: "https://via.placeholder.com/360x480?text=王五", degree: "在读硕士", undergrad: "本科：复旦大学", research: "智能网络通信" },
+      { name: "赵六", src: "https://via.placeholder.com/360x480?text=赵六", degree: "在读硕士", undergrad: "本科：浙江大学", research: "遥感影像内容安全" }
+    ],
     alumni: {
       title: "已毕业学生",
       columns: ["姓名", "入学年份/硕博", "本科院校", "毕业去向"],
