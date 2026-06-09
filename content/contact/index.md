@@ -1,5 +1,6 @@
 ---
 title: 加入我们
+reading_time: false
 summary: 邮箱、地址。
 ---
 ## 我们希望你：
