@@ -34,7 +34,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <figcaption>
       <a class="student-name">毛养素</a>
       <div class="student-meta">博士研究生</div>
-      <div class="field-text">研究领域：地理信息安全</div>
+      <div class="field-text">研究领域：时空数据安全</div>
     </figcaption>
   </figure>
   <figure class="student-card">
@@ -42,7 +42,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <figcaption>
       <a class="student-name">徐雅鑫</a>
       <div class="student-meta">博士研究生</div>
-      <div class="field-text">研究领域：地理信息安全</div>
+      <div class="field-text">研究领域：时空数据安全</div>
     </figcaption>
   </figure>
   <figure class="student-card">
@@ -54,7 +54,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     </figcaption>
   </figure>
 
-<figure class="student-card">
+  <figure class="student-card">
     <img src="images/index/yuchuangyu.jpg" alt="于创宇">
     <figcaption>
       <a class="student-name">于创宇</a>
@@ -62,12 +62,20 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
       <div class="field-text">研究领域：空天地一体化传输</div>
     </figcaption>
   </figure>
-<figure class="student-card">
+  <figure class="student-card">
     <img src="images/index/luozhihui.jpg" alt="罗智辉">
     <figcaption>
       <a class="student-name">罗智辉</a>
       <div class="student-meta">博士研究生</div>
-      <div class="field-text">研究领域：地理信息安全</div>
+      <div class="field-text">研究领域：时空数据安全</div>
+    </figcaption>
+  </figure>
+  <figure class="student-card">
+    <img src="images/index/dujixin.jpg" alt="杜佶欣">
+    <figcaption>
+      <a class="student-name">杜佶欣</a>
+      <div class="student-meta">博士研究生</div>
+      <div class="field-text">研究领域：时空数据安全</div>
     </figcaption>
   </figure>
 </div>
@@ -103,7 +111,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <figcaption>
       <a class="student-name">陈健</a>
       <div class="student-meta">本科院校：山东大学</div>
-      <div class="field-text">研究方向：地理信息安全</div>
+      <div class="field-text">研究方向：时空数据安全</div>
     </figcaption>
   </figure>
   <figure class="student-card">
@@ -119,7 +127,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <figcaption>
       <a class="student-name">宗可琦</a>
       <div class="student-meta">本科院校：南京理工大学</div>
-      <div class="field-text">研究方向：地理信息安全</div>
+      <div class="field-text">研究方向：时空数据安全</div>
     </figcaption>
   </figure>
   <figure class="student-card">
@@ -135,7 +143,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <figcaption>
       <a class="student-name">万兴波</a>
       <div class="student-meta">本科院校：武汉工程大学</div>
-      <div class="field-text">研究方向：地理信息安全</div>
+      <div class="field-text">研究方向：时空数据安全</div>
     </figcaption>
   </figure>
   <figure class="student-card">
@@ -159,6 +167,14 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <figcaption>
       <a class="student-name">李嘉俊</a>
       <div class="student-meta">本科院校：郑州大学</div>
+      <div class="field-text">研究方向：时空数据安全</div>
+    </figcaption>
+  </figure>
+  <figure class="student-card">
+    <img src="images/index/dujiale.jpg" alt="杜佳乐">
+    <figcaption>
+      <a class="student-name">杜佳乐</a>
+      <div class="student-meta">本科院校：武汉理工大学</div>
       <div class="field-text">研究方向：空天地一体化传输</div>
     </figcaption>
   </figure>
@@ -180,6 +196,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
 | 熊礼治 | 2017     | 博士     | 南京信息工程大学           |
 | 于创宇 | 2025     | 硕士     | 武大直博                   |
 | 王炳棋 | 2025     | 硕士     | 武大直博                   |
+| 张爽   | 2025     | 硕士     | 中元华电科技股份有限公司    |
 | 张博   | 2024     | 硕士     | 中国移动                   |
 | 孔凌辉 | 2023     | 硕士     | 蚂蚁金服                   |
 | 刘鑫   | 2023     | 硕士     | 阿里巴巴                   |
