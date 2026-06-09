@@ -1,6 +1,6 @@
 ---
 title: 科研成果
-date: 2026-05-27
+reading_time: false
 summary: 代表性 SCI / EI 论文与学术成果列表。
 ---
 ## 论文
