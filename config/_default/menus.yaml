@@ -17,9 +17,6 @@ main:
   - name: 团队简介
     url: /gallery/
     weight: 60
-  - name: 学生培养
-    url: /students/
-    weight: 70
-  - name: 联系方式
+  - name: 加入我们
     url: /contact/
-    weight: 80
+    weight: 70
