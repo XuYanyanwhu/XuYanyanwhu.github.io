@@ -1,6 +1,6 @@
 ---
 title: 团队简介
-date: 2026-05-27
+reading_time: false
 summary: 团队简介、课题组图片、实验室环境与团队活动展示。
 ---
 
