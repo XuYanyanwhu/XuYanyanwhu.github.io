@@ -17,6 +17,7 @@ bio: |
 affiliations:
   - name: 武汉大学测绘遥感信息工程全国重点实验室
     url: https://liesmars.whu.edu.cn/
+  - name: 联系方式：E-mail: xuyy@whu.edu.cn
 
 links:
   - icon: at-symbol
@@ -28,8 +29,8 @@ links:
 
 interests:
   - 时空数据安全
-  - 智能网络通信
-  - 空间信息实时传输
+  - 空天地一体化智能网络通信
+  - 通信遥感融合
 
 education: []
 experience:
