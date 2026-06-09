@@ -22,6 +22,10 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
 
 更多信息详见[教师主页](https://liesmars.whu.edu.cn/info/1168/5972.htm)
 
+## 学生培养
+
+研究生培养注重理论与实际相结合，着力提高学生综合能力，包括科研攻关能力、程序开发技能、论文写作能力、沟通能力、表达能力和团队合作能力等。为研究生提供优越的学习和科研条件，研究生均有机会参与实际项目的历练，为求职或进一步深造奠定坚实基础。所培养的历届毕业生均进入国内外著名高科技公司、高校或科研院所工作。研究生培养注重理论与实际相结合，着力提升科研攻关、程序开发、论文写作、沟通表达和团队合作能力。学生有机会参与实际科研项目训练，为求职或进一步深造奠定基础。
+
 ## 在读博士
 
 <div class="students-grid">
@@ -74,7 +78,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <img src="images/index/wangyixiao.jpg" alt="王一枭">
     <figcaption>
       <a class="student-name">王一枭</a>
-      <div class="student-meta">硕士研究生</div>
+      <div class="student-meta">本科院校：西安电子科技大学</div>
       <div class="field-text">研究方向：空天地一体化传输</div>
     </figcaption>
   </figure>
@@ -82,7 +86,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <img src="images/index/houlinchao.jpg" alt="侯林超">
     <figcaption>
       <a class="student-name">侯林超</a>
-      <div class="student-meta">硕士研究生</div>
+      <div class="student-meta">本科院校：郑州大学</div>
       <div class="field-text">研究方向：空天地一体化传输</div>
     </figcaption>
   </figure>
@@ -90,15 +94,23 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <img src="images/index/linzhen.jpg" alt="林振">
     <figcaption>
       <a class="student-name">林振</a>
-      <div class="student-meta">硕士研究生</div>
+      <div class="student-meta">本科院校：集美大学</div>
       <div class="field-text">研究方向：空天地一体化传输</div>
+    </figcaption>
+  </figure>
+  <figure class="student-card">
+    <img src="images/index/chenjian.jpg" alt="陈健">
+    <figcaption>
+      <a class="student-name">陈健</a>
+      <div class="student-meta">本科院校：山东大学</div>
+      <div class="field-text">研究方向：地理信息安全</div>
     </figcaption>
   </figure>
   <figure class="student-card">
     <img src="images/index/xieguangzhen.jpg" alt="谢光珍">
     <figcaption>
       <a class="student-name">谢光珍</a>
-      <div class="student-meta">硕士研究生</div>
+      <div class="student-meta">本科院校：吉林大学</div>
       <div class="field-text">研究方向：空天地一体化传输</div>
     </figcaption>
   </figure>
@@ -106,7 +118,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <img src="images/index/zongkeqi.jpg" alt="宗可琦">
     <figcaption>
       <a class="student-name">宗可琦</a>
-      <div class="student-meta">硕士研究生</div>
+      <div class="student-meta">本科院校：南京理工大学</div>
       <div class="field-text">研究方向：地理信息安全</div>
     </figcaption>
   </figure>
@@ -114,7 +126,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <img src="images/index/liutianyue.jpg" alt="刘天悦">
     <figcaption>
       <a class="student-name">刘天悦</a>
-      <div class="student-meta">硕士研究生</div>
+      <div class="student-meta">本科院校：吉林大学</div>
       <div class="field-text">研究方向：空天地一体化传输</div>
     </figcaption>
   </figure>
@@ -122,7 +134,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <img src="images/index/wanxingbo.jpg" alt="万兴波">
     <figcaption>
       <a class="student-name">万兴波</a>
-      <div class="student-meta">硕士研究生</div>
+      <div class="student-meta">本科院校：武汉工程大学</div>
       <div class="field-text">研究方向：地理信息安全</div>
     </figcaption>
   </figure>
@@ -130,7 +142,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <img src="images/index/zhoushihang.jpg" alt="周诗杭">
     <figcaption>
       <a class="student-name">周诗杭</a>
-      <div class="student-meta">硕士研究生</div>
+      <div class="student-meta">本科院校：成都理工大学</div>
       <div class="field-text">研究方向：空天地一体化传输</div>
     </figcaption>
   </figure>
@@ -138,7 +150,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <img src="images/index/luozhewei.jpg" alt="罗哲伟">
     <figcaption>
       <a class="student-name">罗哲伟</a>
-      <div class="student-meta">硕士研究生</div>
+      <div class="student-meta">本科院校：郑州大学</div>
       <div class="field-text">研究方向：空天地一体化传输</div>
     </figcaption>
   </figure>
@@ -146,13 +158,42 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <img src="images/index/lijiajun.jpg" alt="李嘉俊">
     <figcaption>
       <a class="student-name">李嘉俊</a>
-      <div class="student-meta">硕士研究生</div>
+      <div class="student-meta">本科院校：郑州大学</div>
       <div class="field-text">研究方向：空天地一体化传输</div>
     </figcaption>
   </figure>
 </div>
 
-**毕业生信息详见[学生培养](http://localhost:1313/students/)**
+## 已毕业学生
+
+| 姓名   | 毕业年份 | 毕业学位 | 毕业去向                   |
+| ------ | -------- | -------- | -------------------------- |
+| 王志恒 | 2025     | 博士     | 河南大学                   |
+| 欧阳雪 | 2024     | 博士     | 广西师范大学               |
+| 闫悦菁 | 2023     | 博士     | 陕西师范大学               |
+| 饶哲恒 | 2022     | 博士     | 杭州电子科技大学           |
+| 王冬   | 2021     | 博士     | 杭州电子科技大学           |
+| 王豪   | 2021     | 博士     | 重庆邮电大学               |
+| 贾姗   | 2021     | 博士     | Google                     |
+| 王冬   | 2021     | 博士     | 杭州电子科技大学           |
+| 王涛   | 2019     | 博士     | 华中师范大学               |
+| 熊礼治 | 2017     | 博士     | 南京信息工程大学           |
+| 于创宇 | 2025     | 硕士     | 武大直博                   |
+| 王炳棋 | 2025     | 硕士     | 武大直博                   |
+| 张博   | 2024     | 硕士     | 中国移动                   |
+| 孔凌辉 | 2023     | 硕士     | 蚂蚁金服                   |
+| 刘鑫   | 2023     | 硕士     | 阿里巴巴                   |
+| 陈世河 | 2023     | 硕士     | 中国农业银行湖北分行       |
+| 徐跃   | 2023     | 硕士     | 中兴通讯                   |
+| 孟磊   | 2022     | 硕士     | 中国金融期货交易所技术公司 |
+| 陶玉龙 | 2022     | 硕士     | 阿里巴巴                   |
+| 毛养素 | 2022     | 硕士     | 武大直博                   |
+| 王志恒 | 2021     | 硕士     | 武大直博                   |
+| 张逸然 | 2021     | 硕士     | 中国移动研究院             |
+| 王玉杰 | 2021     | 硕士     | 中国农业银行               |
+| 刘佳彤 | 2020     | 硕士     | 武大直博                   |
+| 宋方振 | 2020     | 硕士     | 字节跳动                   |
+| 赵啸   | 2020     | 硕士     | 华为2012实验室             |
 
 ## 课题组风采展示
 
