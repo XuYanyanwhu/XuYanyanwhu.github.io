@@ -1,6 +1,6 @@
 ---
 title: 研究方向
-date: 2026-05-27
+reading_time: false
 summary: 时空数据安全、空天地一体化智能网络通信、通信遥感融合
 ---
 
