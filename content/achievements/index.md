@@ -1,6 +1,6 @@
 ---
 title: 专著、发明专利与获奖
-date: 2026-05-27
+reading_time: false
 summary: 学术专著、授权发明专利和科研奖励。
 ---
 ## 专著
