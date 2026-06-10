@@ -125,7 +125,6 @@ summary: 代表性 SCI / EI 论文与学术成果列表。
 
 [60]Maoquan Li, Zhengquan Xu, Yanyan Xu, Robust Transmission of Video Stream over Fading Channels,  in  Novel Algorithms and Techniques in Telecommunications and Networking (pp. 311–316). Springer, 2010
 
-[61]徐彦彦，边学工，喻占武，利用实时监测软观察仪辅助可视通信系统的开发，武汉大学学报(信息科学版)，27(1): 52-56, 2002
 
 
 ## 专著
