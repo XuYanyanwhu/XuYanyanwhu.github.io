@@ -248,15 +248,23 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/work1.jpg" alt="学术交流">
-        <figcaption>2022年，中国，CIHW学术会议</figcaption>
+        <figcaption>2022年，中国，重庆，CIHW学术会议</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/xueshu.png" alt="学术交流">
-        <figcaption>2024年，香港，AsiaCarto国际学术会议</figcaption>
+        <figcaption>2024年，中国，香港，AsiaCarto国际学术会议</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/ceshi1.jpg" alt="野外测试">
-        <figcaption>2025年野外测试</figcaption>
+        <figcaption>野外测试</figcaption>
+      </figure>
+      <figure class="hb-carousel__slide">
+        <img src="/uploads/ceshi3.jpg" alt="野外测试">
+        <figcaption>野外测试</figcaption>
+      </figure>
+      <figure class="hb-carousel__slide">
+        <img src="/uploads/yewaikaocha.png" alt="野外测试">
+        <figcaption>野外考察</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/group-202501.jpg" alt="合照">
@@ -268,7 +276,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/hezhao1.png" alt="合照">
-        <figcaption>2024年合照</figcaption>
+        <figcaption>2022年合照</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/hezhao2.png" alt="合照">
