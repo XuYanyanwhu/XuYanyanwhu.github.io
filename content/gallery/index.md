@@ -267,6 +267,10 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
         <figcaption>野外考察</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
+        <img src="/uploads/liantiaoceshi.jpg" alt="野外测试">
+        <figcaption>联调测试</figcaption>
+      </figure>
+      <figure class="hb-carousel__slide">
         <img src="/uploads/group-202501.jpg" alt="合照">
         <figcaption>2024年教师节合照</figcaption>
       </figure>
@@ -276,7 +280,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/hezhao1.png" alt="合照">
-        <figcaption>2022年合照</figcaption>
+        <figcaption>2023年团建合照</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/hezhao2.png" alt="合照">
