@@ -25,8 +25,8 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
 ## 学生获奖
 1. ISPRS Geospatial Week最佳专题论文奖，2025年
 2. 通感智达——通信-定位-遥感天地一体精密组网应急先锋，国际大学生创新大赛银奖，2024年
-3. 2020年获得第九届全国地理信息科学博士生学术论文优秀报告奖
-4. 第一届中国研究生人工智能创新大赛一等奖
+3. 第九届全国地理信息科学博士生学术论文优秀报告奖，2020年
+4. 第一届中国研究生人工智能创新大赛一等奖，2019年
 
 ## 在读博士
 
@@ -195,6 +195,9 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
 | 贾姗   | 2021     | 博士     | Google                     |
 | 王涛   | 2019     | 博士     | 华中师范大学               |
 | 熊礼治 | 2017     | 博士     | 南京信息工程大学           |
+| 蒋力   | 2015     | 博士     | 郑州大学                  |
+| 刘进   | 2014     | 博士     | 武汉理工大学               |
+| 姚晔   | 2013     | 博士     | 杭州电子科技大学           |
 | 王一枭 | 2026     | 硕士     | 华为                      |
 | 侯林超 | 2026     | 硕士     | 京东                      |
 | 陈健   | 2026     | 硕士     | 厦门烟草                   |
@@ -214,8 +217,17 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
 | 张逸然 | 2021     | 硕士     | 中国移动研究院             |
 | 王玉杰 | 2021     | 硕士     | 中国农业银行               |
 | 刘佳彤 | 2020     | 硕士     | 武大直博                   |
-| 宋方振 | 2020     | 硕士     | 字节跳动                   |
-| 赵啸   | 2020     | 硕士     | 华为2012实验室             |
+| 宋方振 | 2020     | 硕士     | 今日头条                   |
+| 赵啸   | 2020     | 硕士     | 华为                      |
+| 史燕飞 | 2018     | 硕士     | 腾讯                      |
+| 赵继宗 | 2017     | 硕士     | 网易                      |
+| 张文婷 | 2017     | 硕士     | 阿里巴巴                  |
+| 韩威  | 2016     | 硕士     | 腾讯                      |
+| 占克友 | 2015     | 硕士     | 腾讯                      |
+| 王崇欢 | 2012     | 硕士     | 百度                      |
+| 李伟  | 2009     | 硕士     | 360安全                   |
+| 邓雄书 | 2008     | 硕士     | 百度                      |
+| 张镭  | 2008     | 硕士     | 美国微软公司               |
 
 ## 课题组风采展示
 
@@ -224,47 +236,43 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
     <div class="hb-carousel__track">
       <figure class="hb-carousel__slide">
         <img src="/uploads/group-2026.jpg" alt="课题组毕业合影">
-        <figcaption>课题组2026年毕业合影</figcaption>
-      </figure>
-      <figure class="hb-carousel__slide">
-        <img src="/uploads/xueshu2.png" alt="学术交流">
-        <figcaption>学术交流</figcaption>
-      </figure>
-      <figure class="hb-carousel__slide">
-        <img src="/uploads/work1.jpg" alt="学术交流">
-        <figcaption>学术交流</figcaption>
+        <figcaption>2026年课题组毕业合影</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/xueshu1.png" alt="学术交流">
-        <figcaption>学术交流</figcaption>
+        <figcaption>2025年，迪拜，ISPRS GeoSpatial Week学术会议</figcaption>
+      </figure>
+      <figure class="hb-carousel__slide">
+        <img src="/uploads/xueshu2.png" alt="学术交流">
+        <figcaption>2024年，澳大利亚，珀斯，UPINLBS国际学术会议</figcaption>
+      </figure>
+      <figure class="hb-carousel__slide">
+        <img src="/uploads/work1.jpg" alt="学术交流">
+        <figcaption>2022年，中国，CIHW学术会议</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/xueshu.png" alt="学术交流">
-        <figcaption>学术交流</figcaption>
+        <figcaption>2024年，香港，AsiaCarto国际学术会议</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/ceshi1.jpg" alt="野外测试">
-        <figcaption>野外测试</figcaption>
-      </figure>
-      <figure class="hb-carousel__slide">
-        <img src="/uploads/ceshi2.jpg" alt="野外测试">
-        <figcaption>野外测试</figcaption>
+        <figcaption>2025年野外测试</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/group-202501.jpg" alt="合照">
-        <figcaption>合照</figcaption>
+        <figcaption>2024年教师节合照</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
           <img src="/uploads/group-2025.jpg" alt="合照">
-          <figcaption>合照</figcaption>
+          <figcaption>2024年课题组毕业合影</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/hezhao1.png" alt="合照">
-        <figcaption>合照</figcaption>
+        <figcaption>2024年合照</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/hezhao2.png" alt="合照">
-        <figcaption>合照</figcaption>
+        <figcaption>学生合照</figcaption>
       </figure>
     </div>
   </div>
