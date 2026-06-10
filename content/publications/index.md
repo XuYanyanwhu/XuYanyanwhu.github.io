@@ -3,7 +3,7 @@ title: 科研成果
 reading_time: false
 summary: 代表性 SCI / EI 论文与学术成果列表。
 ---
-## 论文
+## 部分论文
 
 [1]Yuejing Yan, Yanyan Xu, Yong Yu, Zhiheng Wang, Xue Ouyang, Verifiable Privacy-Preserving Retrieval Service for Large-Scale Image in Cloud Computing, IEEE Transactions on Dependable and Secure Computing, Vol.23, No.3, pp4910-4925, 2026 
 
