@@ -82,11 +82,29 @@ header a,
     color: var(--whu-ink) !important;
   }
 
-  .home-section,
   section[id] {
     background: rgba(255, 255, 255, 0.98) !important;
   }
 
+   /* 首页背景图片，仅应用于首页首屏区块 */
+  #section-resume-biography-3 {
+    background: transparent !important;
+  }
+
+  #section-resume-biography-3 .home-section-bg {
+    background: url("/icons/beijing.jfif") center/cover no-repeat fixed !important;
+    background-color: transparent !important;
+  }
+
+  /* 首页文字块白底，提升可读性 */
+  #section-resume-biography-3 .resume-biography {
+    background: rgba(255, 255, 255, 0.90) !important;
+    border-radius: 1.5rem;
+    box-shadow: 0 30px 70px rgba(15, 23, 42, 0.12);
+    width: min(1200px, calc(100% - 2rem));
+    margin: 0 auto;
+  }
+  
   .page-body article main {
     margin-top: 2rem;
     margin-bottom: 2rem;
