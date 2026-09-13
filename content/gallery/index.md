@@ -262,6 +262,14 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
   <div class="hb-carousel__viewport">
     <div class="hb-carousel__track">
       <figure class="hb-carousel__slide">
+        <img src="/uploads/202609101.jpg" alt="合照">
+        <figcaption>2026年教师节合照</figcaption>
+      </figure>
+      <figure class="hb-carousel__slide">
+        <img src="/uploads/202609102.jpg" alt="合照">
+        <figcaption>2026年教师节合照</figcaption>
+      </figure>
+      <figure class="hb-carousel__slide">
         <img src="/uploads/wangbq.png" alt="wangbq">
         <figcaption>博士生王炳棋获第九届“空间信息网络”学术论坛优秀论文奖</figcaption>
       </figure>
