@@ -313,6 +313,10 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
         <img src="/uploads/hezhao2.png" alt="合照">
         <figcaption>学生合照</figcaption>
       </figure>
+      <figure class="hb-carousel__slide">
+        <img src="/uploads/wangbq.png" alt="合照">
+        <figcaption>学生合照</figcaption>
+      </figure>
     </div>
   </div>
   <button class="hb-carousel__nav hb-carousel__nav--prev" type="button" aria-label="上一张">‹</button>
