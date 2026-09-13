@@ -262,11 +262,11 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
   <div class="hb-carousel__viewport">
     <div class="hb-carousel__track">
       <figure class="hb-carousel__slide">
-        <img src="/uploads/202609101.jpg" alt="合照">
+        <img src="/uploads/jiaoshijie1.jpg" alt="合照">
         <figcaption>2026年教师节合照</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
-        <img src="/uploads/202609102.jpg" alt="合照">
+        <img src="/uploads/jiaoshijie2.jpg" alt="合照">
         <figcaption>2026年教师节合照</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
