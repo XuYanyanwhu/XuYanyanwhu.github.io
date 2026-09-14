@@ -47,10 +47,11 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
 更多信息详见[教师主页](https://liesmars.whu.edu.cn/info/1168/5972.htm)
 
 ## 学生获奖
-1. ISPRS Geospatial Week最佳专题论文奖，2025年
-2. 通感智达——通信-定位-遥感天地一体精密组网应急先锋，国际大学生创新大赛银奖，2024年
-3. 第九届全国地理信息科学博士生学术论文优秀报告奖，2020年
-4. 第一届中国研究生人工智能创新大赛一等奖，2019年
+1. 第九届“空间信息网络”学术论坛优秀论文奖，2026年
+2. ISPRS Geospatial Week最佳专题论文奖，2025年
+3. 通感智达——通信-定位-遥感天地一体精密组网应急先锋，国际大学生创新大赛银奖，2024年
+4. 第九届全国地理信息科学博士生学术论文优秀报告奖，2020年
+5. 第一届中国研究生人工智能创新大赛一等奖，2019年
 
 ## 在读博士
 
@@ -204,6 +205,14 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
       <div class="field-text">研究方向：空天地一体化传输</div>
     </figcaption>
   </figure>
+  <figure class="student-card">
+    <img src="images/index/jiangzhaohui.jpg" alt="蒋朝辉">
+    <figcaption>
+      <a class="student-name">蒋朝辉</a>
+      <div class="student-meta">本科院校：南京邮电大学</div>
+      <div class="field-text">研究方向：空天地一体化传输</div>
+    </figcaption>
+  </figure>
 </div>
 
 ## 学生就业
@@ -262,12 +271,8 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
   <div class="hb-carousel__viewport">
     <div class="hb-carousel__track">
       <figure class="hb-carousel__slide">
-        <img src="/uploads/jiaoshijie1.jpg" alt="合照">
-        <figcaption>2026年教师节合照</figcaption>
-      </figure>
-      <figure class="hb-carousel__slide">
-        <img src="/uploads/jiaoshijie2.jpg" alt="合照">
-        <figcaption>2026年教师节合照</figcaption>
+        <img src="/uploads/jiepai.jpg" alt="揭牌仪式">
+        <figcaption>武汉大学-北控北斗时空数据安全与智能感知联合研究中心揭牌仪式</figcaption>
       </figure>
       <figure class="hb-carousel__slide">
         <img src="/uploads/wangbq.png" alt="wangbq">
