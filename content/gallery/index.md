@@ -109,39 +109,7 @@ summary: 团队简介、课题组图片、实验室环境与团队活动展示�
 
 <h3>在读硕士</h3>
 <div class="students-grid">
-  <figure class="student-card">
-    <img src="images/index/wangyixiao.jpg" alt="王一枭">
-    <figcaption>
-      <a class="student-name">王一枭</a>
-      <div class="student-meta">本科院校：西安电子科技大学</div>
-      <div class="field-text">研究方向：空天地一体化传输</div>
-    </figcaption>
-  </figure>
-  <figure class="student-card">
-    <img src="images/index/houlinchao.jpg" alt="侯林超">
-    <figcaption>
-      <a class="student-name">侯林超</a>
-      <div class="student-meta">本科院校：郑州大学</div>
-      <div class="field-text">研究方向：空天地一体化传输</div>
-    </figcaption>
-  </figure>
-  <figure class="student-card">
-    <img src="images/index/linzhen.jpg" alt="林振">
-    <figcaption>
-      <a class="student-name">林振</a>
-      <div class="student-meta">本科院校：集美大学</div>
-      <div class="field-text">研究方向：大语言模型</div>
-    </figcaption>
-  </figure>
-  <figure class="student-card">
-    <img src="images/index/chenjian.jpg" alt="陈健">
-    <figcaption>
-      <a class="student-name">陈健</a>
-      <div class="student-meta">本科院校：山东大学</div>
-      <div class="field-text">研究方向：时空数据安全</div>
-    </figcaption>
-  </figure>
-  <figure class="student-card">
+    <figure class="student-card">
     <img src="images/index/xieguangzhen.jpg" alt="谢光珍">
     <figcaption>
       <a class="student-name">谢光珍</a>
